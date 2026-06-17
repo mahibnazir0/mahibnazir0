@@ -1,4 +1,4 @@
-# Hi there, I'm Mahib Nazir 👋
+**Hi there, I'm Mahib Nazir** 
 
 ### Associate Software Engineer | Full-Stack Developer | Automation Specialist
 
@@ -6,13 +6,13 @@ Motivated Software Engineer with hands-on experience in building scalable full-s
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 BS Computer Science Student at PUCIT, Lahore
-- 💻 Full-Stack Developer (Python, JavaScript, React)
-- 🤖 Automation & Bot Development Expert
-- 🏗 Strong foundation in OOP, SOLID Principles, Clean Architecture
-- 🌐 Passionate about scalable systems, APIs, and cloud integrations
+-  BS Computer Science Student at PUCIT, Lahore
+-  Full-Stack Developer (Python, JavaScript, React)
+-  Automation & Bot Development Expert
+-  Strong foundation in OOP, SOLID Principles, Clean Architecture
+-  Passionate about scalable systems, APIs, and cloud integrations
 
 ---
 
@@ -46,9 +46,9 @@ Motivated Software Engineer with hands-on experience in building scalable full-s
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🎥 YouTube Clone
+###  YouTube Clone
 Responsive frontend web application inspired by YouTube.
 
 **Key Features:**
@@ -60,7 +60,7 @@ Responsive frontend web application inspired by YouTube.
 
 ---
 
-### 🎵 Spotify-Style Music Streaming Database
+###  Spotify-Style Music Streaming Database
 Designed and optimized a relational music platform database.
 
 **Highlights:**
@@ -94,12 +94,12 @@ Developed an automated crypto prediction market bot.
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-- 💼 Open for freelance opportunities
-- 📧 Available for collaboration
-- 🌍 Building impactful software solutions
+-  Open for freelance opportunities
+-  Available for collaboration
+-  Building impactful software solutions
 
 ---
 
-### ⚡ “Building scalable software, automating systems, and solving real-world problems through code.”
+###  “Building scalable software, automating systems, and solving real-world problems through code.”
